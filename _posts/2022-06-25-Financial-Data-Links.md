@@ -10,5 +10,5 @@ title: Useful Links for Financial Data
 # Useful Links for Financial Data
 
 #### List of links
-1. [Bank for International Settlements](https://www.bis.org/statistics/full_data_sets.htm), [First Solar Inc](https://www.google.com/finance/quote/FSLR:NASDAQ?window=MAX), 
+1. [Bank for International Settlements](https://www.bis.org/statistics/full_data_sets.htm)
 
