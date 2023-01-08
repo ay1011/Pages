@@ -15,5 +15,4 @@ title: GoogleSheet Formula for Malaysian Stock Prices
     =index(ImportXML("https://klse.i3investor.com/web/stock/overview/"&A1&"?randomstring", "//*[@id='stock-price-info']/div[1]/p[2]/strong"), 1, 1)
     
 ## Footnotes
-[^1]: Extracted from https://klse.i3investor.com/web/stock/overview/5014
-
+[^1]: Extracted from [klse.i3investor](https://klse.i3investor.com/web/stock/overview/5014)
